@@ -8,7 +8,7 @@ export const profile = {
   // Put your photo at public/profile.jpg. Leave it missing to show initials instead.
   photo: '/profile.jpg',
   // Paste your Formspree endpoint here (https://formspree.io/f/xxxxxxx)
-  formEndpoint: 'https://formspree.io/f/YOUR_FORM_ID',
+  resume: '/resume.pdf',
 }
 
 export const stats = [
